@@ -25,6 +25,6 @@ This is a boilerplate **React 19** template built with **Vite**, **Redux Toolkit
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/react-template.git
+git clone https://github.com/Sarveshkumar70/React-Template.git
 cd react-template
 npm install
