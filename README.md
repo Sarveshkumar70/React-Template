@@ -5,23 +5,8 @@ This is a boilerplate **React 19** template built with **Vite**, **Redux Toolkit
 ---
 
 ## 📁 Folder Structure
-src
-├── assets/ # Static files like CSS, images, fonts
-├── axios/ # Axios instance configuration
-├── components/ # Reusable UI components
-├── config/ # Global config (API URLs, constants)
-├── hooks/ # Custom reusable hooks
-├── layout/ # Layout components (Navbar, Footer, etc.)
-├── redux/ # Global state management (slices, store)
-├── routes/ # App routing setup
-│ ├── AppRoutes.jsx
-│ ├── PrivateRoutes.jsx
-│ ├── PublicRoutes.jsx
-│ └── routes.js
-├── services/ # API call functions (authServices.js etc.)
-├── App.jsx # Root React component
-├── main.jsx # Entry point
-└── index.css # Tailwind and global styles
+
+``` 📁 src/ ├── assets/ # Static files like CSS, images, fonts ├── axios/ # Axios instance configuration ├── components/ # Reusable UI components ├── config/ # Global config (API URLs, constants) ├── hooks/ # Custom reusable hooks ├── layout/ # Layout components (Navbar, Footer, etc.) ├── redux/ # Global state management (slices, store) ├── routes/ # App routing setup │ ├── AppRoutes.jsx │ ├── PrivateRoutes.jsx │ ├── PublicRoutes.jsx │ └── routes.js ├── services/ # API call functions (authServices.js etc.) ├── App.jsx # Root React component ├── main.jsx # Entry point └── index.css # Tailwind and global styles ```
 
 ---
 
